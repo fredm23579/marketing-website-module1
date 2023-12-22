@@ -54,7 +54,7 @@ Horiseon is a digital marketing agency specializing in Search Engine Optimizatio
 
 ## Live Demo
 
-You can view the live version of the website here: https://github.com/fredm23579/marketing-website-module1/Develop/index.html
+You can view the live version of the website here: https://github.io/fredm23579/marketing-website-module1/Develop/index.html
 
 ## Repository
 
@@ -68,7 +68,7 @@ git clone git@github.com:fredm23579/marketing-website-module1.git
 
 ## Open index.html in a web browser to view the website:
 
-https://github.com/fredm23579/marketing-website-module1/Develop/index.html
+https://github.io/fredm23579/marketing-website-module1/Develop/index.html
 
 ## Accessibility
 
@@ -85,7 +85,7 @@ For questions or comments, please contact us at motta@g.ucla.edu.
 
 You are required to submit the following for review:
 
-* The URL of the deployed application: https://github.com/fredm23579/marketing-website-module1/Develop/index.html
+* The URL of the deployed application: https://fredm23579.github.io/marketing-website-module1/Develop/index.html
 
 * The URL of the GitHub repository, with a unique name and a README : https://github.com/fredm23579/marketing-website-module1
 

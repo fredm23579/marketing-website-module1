@@ -85,6 +85,6 @@ This site is designed with accessibility in mind, following WCAG guidelines to e
 * The URL of the GitHub repository, with a unique name and a README : https://github.com/fredm23579/marketing-website-module1
 
 ## Contact Info
-For questions or comments, please contact ume at motta@g.ucla.edu.
+For questions or comments, please contact me at motta@g.ucla.edu.
 ---
 

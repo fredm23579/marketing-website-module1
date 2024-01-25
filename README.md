@@ -54,7 +54,7 @@ Horiseon is a digital marketing agency specializing in Search Engine Optimizatio
 
 ## Live Demo
 
-You can view the live version of the website here: https://github.io/fredm23579/marketing-website-module1/Develop/index.html
+You can view the live version of the website here: [https://github.io/fredm23579/marketing-website-module1/Develop/index.html](https://fredm23579.github.io/marketing-website-module1/Develop/index.html)
 
 ## Repository
 
